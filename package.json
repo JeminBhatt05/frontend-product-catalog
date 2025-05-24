@@ -2,6 +2,9 @@
   "name": "frontend-product-catalog",
   "private": false,
   "type": "module",
+  "version": "1.0.0",
+  "description": "A product catalog application",
+  "main": "index.js",
   "scripts": {
     "build": "react-router build",
     "dev": "react-router dev",
