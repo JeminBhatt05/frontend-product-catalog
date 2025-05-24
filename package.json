@@ -1,6 +1,6 @@
 {
   "name": "frontend-product-catalog",
-  "private": false,
+  "private": "false",
   "type": "module",
   "version": "1.0.0",
   "description": "A product catalog application",
