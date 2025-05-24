@@ -1,6 +1,6 @@
 {
   "name": "frontend-product-catalog",
-  "private": true,
+  "private": false,
   "type": "module",
   "scripts": {
     "build": "react-router build",
